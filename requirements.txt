@@ -11,3 +11,5 @@ invisible_watermark
 optimum[openvino]
 onnxruntime
 xformers
+albumentations
+opencv-python
